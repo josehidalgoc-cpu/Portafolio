@@ -2,7 +2,7 @@
 
 ## Mis Habilidades
 * **Lenguajes:** Python, HTML, Java, SQL
-* **Idiomas:** [Ej: Español (Nativo), Inglés (Avanzado), Alemán (A1 Básico)]
+* **Idiomas:** Español (Nativo), Inglés (Avanzado), Alemán (A1 Básico)
 
 ## Mis Proyectos
 
@@ -10,4 +10,4 @@
 * **Descripción:**
 
 ## Cómo contactarme
-* **Email:** josehidalgoc@uees.edu.ec(mailto:josehidalgoc@uees.edu.ec)
+* **Email:** josehidalgoc@uees.edu.ec

@@ -9,5 +9,5 @@
 ### [Nombre del Proyecto 1](Enlace-al-repositorio-o-web)
 * **Descripción:**
 
-## 📫 Cómo contactarme
+## Cómo contactarme
 * **Email:** josehidalgoc@uees.edu.ec(mailto:josehidalgoc@uees.edu.ec)

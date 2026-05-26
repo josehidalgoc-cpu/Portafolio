@@ -1,7 +1,7 @@
 # Jose Luis Hidalgo
 
 ## Mis Habilidades
-* **Lenguajes:** Python, HTML, Java, SQL]
+* **Lenguajes:** Python, HTML, Java, SQL
 * **Idiomas:** [Ej: Español (Nativo), Inglés (Avanzado), Alemán (A1 Básico)]
 
 ## Mis Proyectos

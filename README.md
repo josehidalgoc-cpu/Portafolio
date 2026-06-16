@@ -10,9 +10,11 @@
 * **Descripción:**
 ### [Laravel](https://github.com/josehidalgoc-cpu/Act-en-clase-que-falte.git)
 * **Descripción:** Taller en clase 6: crud laravel.
-### [Laravel Relación N:M]()
+### [Laravel Relación N:M](https://github.com/josehidalgoc-cpu/Taller-en-clase-6-Relaci-n-N-M.git)
 * **Descripción:** Taller en clase 6: Relación N:M.
-### [Proyecto primer parcial]([https://github.com/josehidalgoc-cpu/Act-en-clase-que-falte.git](https://github.com/josehidalgoc-cpu/Proyecto-primer-parcial---Lenguajes-de-programaci-n.git))
+### [Proyecto primer parcial Prolog](https://github.com/josehidalgoc-cpu/Prologrecuperacion.git)
+* **Descripción:** Gestor de credenciales.
+### [Proyecto primer parcial Laravel]((https://github.com/josehidalgoc-cpu/Proyecto-primer-parcial---Lenguajes-de-programaci-n.git))
 * **Descripción:** Gestor de credenciales.
 
 ## Cómo contactarme

@@ -4741,3 +4741,47 @@ input, select, textarea {
 		}
 
 	}
+
+/* ==========================================================================
+   Sección de Habilidades: Idiomas y Lenguajes (personalizado)
+   ========================================================================== */
+
+	#skills .skills-grid {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 2rem;
+		margin-top: 1.5rem;
+	}
+
+	#skills .skills-block h3 {
+		margin-bottom: 0.75rem;
+		font-size: 1rem;
+		text-transform: uppercase;
+		letter-spacing: 0.05rem;
+		opacity: 0.7;
+	}
+
+	#skills .skills-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	#skills .skills-list li {
+		padding: 0.5rem 0;
+		border-bottom: solid 1px rgba(255, 255, 255, 0.1);
+		font-size: 1.05rem;
+	}
+
+	#skills .skills-list li:last-child {
+		border-bottom: none;
+	}
+
+	@media screen and (max-width: 736px) {
+
+		#skills .skills-grid {
+			grid-template-columns: 1fr;
+			gap: 1.5rem;
+		}
+
+	}

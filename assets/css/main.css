@@ -4687,3 +4687,57 @@ input, select, textarea {
 		}
 
 	}
+/* ==========================================================================
+   Sección de Proyectos (personalizado)
+   ========================================================================== */
+
+	#projects .projects-grid {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 1.5rem;
+		margin-top: 2rem;
+	}
+
+	#projects .project-card {
+		padding: 1.5rem;
+		background: rgba(255, 255, 255, 0.03);
+		border: solid 1px rgba(255, 255, 255, 0.1);
+		border-radius: 6px;
+	}
+
+	#projects .project-card h3 {
+		margin-bottom: 0.5rem;
+		font-size: 1.15rem;
+	}
+
+	#projects .project-card .project-tag {
+		display: inline-block;
+		margin-bottom: 0.75rem;
+		font-size: 0.75rem;
+		letter-spacing: 0.05rem;
+		text-transform: uppercase;
+		opacity: 0.6;
+	}
+
+	#projects .project-card p:not(.project-tag) {
+		margin-bottom: 1rem;
+	}
+
+	#projects .project-card .actions {
+		margin: 0;
+	}
+
+	#projects .project-card .button.small {
+		padding: 0 1.25rem;
+		height: 2.5rem;
+		line-height: 2.5rem;
+		font-size: 0.8rem;
+	}
+
+	@media screen and (max-width: 736px) {
+
+		#projects .projects-grid {
+			grid-template-columns: 1fr;
+		}
+
+	}

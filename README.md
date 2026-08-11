@@ -6,10 +6,21 @@ Sitio web personal / portafolio construido sobre la plantilla **[Massively](http
 
 ## Contenido
 
-- `index.html` — página principal (Inicio, Sobre mí, Habilidades, Experiencia, Educación, Contacto)
+- `index.html` — página principal (Inicio, Sobre mí, Habilidades, Proyectos, Experiencia, Educación, Contacto)
 - `assets/` — CSS, JS y fuentes de la plantilla
-- `images/` — imágenes usadas en el sitio
+- `images/` — imágenes usadas en el sitio (solo decorativas)
 - `resume/` — CV descargable en PDF
+
+### Proyectos incluidos
+
+- Climber 2D (Unity)
+- Taller de Unity 3D
+- Taller de Unity 2D
+- Ejercicio Android
+- Proyecto Primer Parcial — Lenguajes de Programación
+- Proyecto en Prolog (recuperación)
+- Taller Laravel — Relación N:M
+- Juego en Prolog (jugable en el navegador vía GitHub Pages)
 
 ## Cómo publicarlo con GitHub Pages
 
